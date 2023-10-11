@@ -1,0 +1,7 @@
+.page-header {
+    padding: 70px 0 35px;
+    background: #0581c4 url(../img/bg-page-header.png) 50% 50% no-repeat;
+    color: #FFF;
+    margin-bottom: 60px;
+    min-height: 190px;
+}
